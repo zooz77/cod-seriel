@@ -1,3 +1,7 @@
+
+# cod-seriel
+file:///C:/Users/User/Desktop/speak/seapk3333.html
+
 # cod-seriel
 <!doctype html= are>
 	<head>
